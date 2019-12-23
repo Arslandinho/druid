@@ -10,8 +10,8 @@
     </parent>
     <groupId>ru.kpfu.itis</groupId>
     <version>0.0.1</version>
-    <artifactId>user-way</artifactId>
-    <name>user-way</name>
+    <artifactId>stats_track</artifactId>
+    <name>stats_track</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
@@ -19,10 +19,6 @@
     </properties>
 
     <dependencies>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-data-cassandra</artifactId>
-        </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>

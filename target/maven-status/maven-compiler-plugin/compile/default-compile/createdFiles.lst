@@ -1,0 +1,5 @@
+ru\kpfu\itis\stats_track\models\Stats$StatsBuilder.class
+ru\kpfu\itis\stats_track\StatsTrackApplication.class
+ru\kpfu\itis\stats_track\service\BenchmarkService.class
+ru\kpfu\itis\stats_track\repository\StatsRepository.class
+ru\kpfu\itis\stats_track\models\Stats.class
